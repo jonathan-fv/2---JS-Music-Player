@@ -36,7 +36,7 @@ const music_list = [
     {
         img : "sources/image/outout.jpg",
         name : "Out Out",
-        artist : "Joel Corry & Jax Jones feat. Charli XCX & Saweetie",
+        artist : "Charli XCX & Saweetie",
         music : "sources/music/joel-corry-x-jax-jones-out-out-feat-charli-xcx-saweetie.mp3"
     },
     {
