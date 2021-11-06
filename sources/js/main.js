@@ -43,13 +43,13 @@ const music_list = [
         img : "sources/image/waitup.jpg",
         name : "Don't Wait Up",
         artist : "Shakira",
-        music : "sources/music/"
+        music : "sources/music/shakira-dont-wait-up.mp3"
     },
     {
         img : "sources/image/wannaslave.jpg",
         name : "I Wanna Be Your Slave",
         artist : "Måneskin",
-        music : "sources/music/"
+        music : "sources/music/maneskin-i-wanna-be-your-slave.mp3"
     }
 ]
 
